@@ -1,6 +1,6 @@
-YouTube: v21.07.247
+YouTube: v21.13.164
 YT Music: v9.15.51
   
-Patches: MorpheApp/patches 1.42.0-dev.8.mpp
+Patches: MorpheApp/patches 1.42.0-dev.9.mpp
 
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v1.42.0-dev.8).
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v1.42.0-dev.9).
