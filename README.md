@@ -4,11 +4,12 @@ Morphe Builds Recommended (Rooted)
 
 Morphe is a variant of the Revanced Original focused on maintaining ad removal features while adding greater support for current versions of YouTube and YouTube Music.
 
-Get the [latest Morphe Rooted release](https://github.com/mandyoquinha-hash/Morphe-Builds-Recommended-Rooted/releases/tag/20260744)
+Get the [latest Morphe Rooted release](https://github.com/mandyoquinha-hash/Morphe-Builds-Recommended-Rooted/releases/tag/20260745)
 
 ## If you are having trouble with the classic mount method of the modules
 such as,
 
 - **"Reflash needed"** error after reboots
 - **"Suspicious mount detected"**
+- **"My Configs: Hybrid Mount OverlayFS, Disabled Unmount modules"**
 - **Using KSU disable "Unmount Modules By default" or grant root permission to YouTube / YouTube Music"**
