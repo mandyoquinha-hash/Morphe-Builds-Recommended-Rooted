@@ -1,6 +1,6 @@
 {
-  "version": "v2026.40.0 (patches 2.4.0-dev.14.mpp)",
-  "versionCode": 20260786,
-  "zipUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Recommended-Rooted/releases/download/20260786/Reddit_Arm32.zip",
+  "version": "v2026.40.0 (patches 2.4.0.mpp)",
+  "versionCode": 20260790,
+  "zipUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Recommended-Rooted/releases/download/20260790/Reddit_Arm32.zip",
   "changelog": "https://raw.githubusercontent.com/mandyoquinha-hash/Morphe-Builds-Recommended-Rooted/refs/heads/main/build.md"
 }
